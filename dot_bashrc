@@ -118,3 +118,9 @@ fi
 
     export PATH="$PATH:/home/tyler/.cargo/bin"
 export PATH=$PATH:/opt/rocm/bin
+i
+is this working?
+:wq!
+:
+
+
